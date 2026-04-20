@@ -1,4 +1,4 @@
-# Hey, I'm [Alok Maiti] 👋
+# Hey, I'm Alok Maiti 👋
 
 > *"Not reinventing the wheel — improving on it."*
 
@@ -10,6 +10,7 @@ Full-stack engineer and CS undergrad building real products — from HR workflow
 
 - 🔭 Working on **HR-Workflow-Designer** and **Stockify**
 - 🤖 Built a reinforcement learning agent for **Meta Hackathon** (supportopsenv)
+- 🛍️ Co-built **KOSH** — a live e-commerce platform to scale an ethnic wear brand to pan-India
 - 💡 I love TypeScript, clean architecture, and shipping things that actually work
 - 📍 Based in Chennai, India for now
 
@@ -34,6 +35,20 @@ Full-stack engineer and CS undergrad building real products — from HR workflow
 | [supportopsenv](https://github.com/AssassinPunk/supportopsenv) | RL agent for support ops — built for Meta Hackathon. MIT Licensed. | Python |
 | [Stockify](https://github.com/AssassinPunk/stockify) | Real-time stock tracking and portfolio management app | TypeScript |
 | [Stockinary](https://github.com/AssassinPunk/Stockinary) | Not reinventing the wheel — improving on it. Stock/inventory tooling | JavaScript |
+
+---
+
+### 🌟 Highlight: KOSH Website
+
+> *A real business. A real product. Shipped.*
+
+**KOSH** is a full e-commerce platform built with 2 friends for an ethnic wear brand looking to expand from local to pan-India. We designed and developed the entire site — product listings, ethnic wear catalogue (sarees, kurtis, coordinated sets), bedsheets, wishlist, bag, and user profiles — from scratch.
+
+- 🛍️ Live storefront with category navigation (Ethnic Wear, Bedsheets)
+- 🖼️ Product image galleries and collection showcases
+- 💛 Wishlist, shopping bag & user profile flows
+- 🤝 Collaborative team project — 3 developers, one shared goal: pan-India scale
+- 🔗 [View Repo](https://github.com/AssassinPunk/KOSH-Website)
 
 ---
 
